@@ -33,53 +33,43 @@ let package = Package(
         ),
         .binaryTarget(
             name: "App",
-            url: "https://maven-repository.blinkoo.com/repository/ios-sdk/0.0.2/App.xcframework.zip",
-            checksum: "10da21eacafa7f2a18ef2ef04720925db5591593ec70f806fb24ae2c62221e7e"
-        ),
-.binaryTarget(
-            name: "iphonesimulator",
-            url: "https://maven-repository.blinkoo.com/repository/ios-sdk/0.0.2/iphonesimulator.zip",
-            checksum: "e21aa10670a005827f590653052d0c361542059a7fe21d7f4c41806b9305784f"
+            url: "https://maven-repository.blinkoo.com/repository/ios-sdk/0.0.3/App.xcframework.zip",
+            checksum: "422326c32ec733679c86ba66b444eee075352065505d7049404acbd4c93f6557"
         ),
 .binaryTarget(
             name: "shared_preferences_foundation",
-            url: "https://maven-repository.blinkoo.com/repository/ios-sdk/0.0.2/shared_preferences_foundation.xcframework.zip",
-            checksum: "a32c22641603af7a841479772238be047ac7f50352525767daad9fe28da58498"
+            url: "https://maven-repository.blinkoo.com/repository/ios-sdk/0.0.3/shared_preferences_foundation.xcframework.zip",
+            checksum: "41724032a040a1cb28ddc36bb4a56ba96477fa3c823e290008c6610f3e664fb6"
         ),
 .binaryTarget(
             name: "package_info_plus",
-            url: "https://maven-repository.blinkoo.com/repository/ios-sdk/0.0.2/package_info_plus.xcframework.zip",
-            checksum: "78f53ad39e5c500e54415a4c0fe21fafe0cb9c8d0c5e99cf1a9b4fb48c8dfdca"
+            url: "https://maven-repository.blinkoo.com/repository/ios-sdk/0.0.3/package_info_plus.xcframework.zip",
+            checksum: "5183b6ea97e09575971e604b1557e469ca7141e061262e551ccf2c3f76eb2274"
         ),
 .binaryTarget(
             name: "FlutterPluginRegistrant",
-            url: "https://maven-repository.blinkoo.com/repository/ios-sdk/0.0.2/FlutterPluginRegistrant.xcframework.zip",
-            checksum: "4cb85939eee8c82daf3f9fe4efad7410bdc703e3a91f9e8f489931a02a15d40b"
+            url: "https://maven-repository.blinkoo.com/repository/ios-sdk/0.0.3/FlutterPluginRegistrant.xcframework.zip",
+            checksum: "736517dcfff09e7cfff1be837ef11c6f6e822af950abf9a08bbc43073bac32f8"
         ),
 .binaryTarget(
             name: "video_player_avfoundation",
-            url: "https://maven-repository.blinkoo.com/repository/ios-sdk/0.0.2/video_player_avfoundation.xcframework.zip",
-            checksum: "5847e4397ed253fd72ae7111527a4057fc4c754d87437f4dd0584268bc3cd5ab"
-        ),
-.binaryTarget(
-            name: "iphoneos",
-            url: "https://maven-repository.blinkoo.com/repository/ios-sdk/0.0.2/iphoneos.zip",
-            checksum: "b955f1cfb99e13389074f342246d833f4bb2e7f8204ad2ff201333d2cb89535a"
+            url: "https://maven-repository.blinkoo.com/repository/ios-sdk/0.0.3/video_player_avfoundation.xcframework.zip",
+            checksum: "ddcde0d9f32c2f22f89d06964c9dc6a545aba1d22a59b3cdc4f9362d62bc3ab9"
         ),
 .binaryTarget(
             name: "path_provider_foundation",
-            url: "https://maven-repository.blinkoo.com/repository/ios-sdk/0.0.2/path_provider_foundation.xcframework.zip",
-            checksum: "469c32c343fe0f8bde45b7a5cd3c284c3ddf80efd3ec760a5271986a1695ce41"
+            url: "https://maven-repository.blinkoo.com/repository/ios-sdk/0.0.3/path_provider_foundation.xcframework.zip",
+            checksum: "979458391d71187780c032f441a83084ffeb7e6ad9df79bd6e133956207eb395"
         ),
 .binaryTarget(
             name: "share_plus",
-            url: "https://maven-repository.blinkoo.com/repository/ios-sdk/0.0.2/share_plus.xcframework.zip",
-            checksum: "a9fa73b48b4e5624b5ff37ca88e01e57b1feb34d58ba547c3c5785969c05fa51"
+            url: "https://maven-repository.blinkoo.com/repository/ios-sdk/0.0.3/share_plus.xcframework.zip",
+            checksum: "4e4dc70d2452aa2e107285372f01030192cc7339327b32589589b68e1677031c"
         ),
 .binaryTarget(
             name: "Flutter",
-            url: "https://maven-repository.blinkoo.com/repository/ios-sdk/0.0.2/Flutter.xcframework.zip",
-            checksum: "11c630cd0ea3d5c5cb2741e57f84429258679e46c0ecdbfa0f53351b588c9b1a"
+            url: "https://maven-repository.blinkoo.com/repository/ios-sdk/0.0.3/Flutter.xcframework.zip",
+            checksum: "1362790bec13b78de5e8976ccc862e4276db8dd111fb2ab4917302ff6e33ac75"
         )
         ]
 )
